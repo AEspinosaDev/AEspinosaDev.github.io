@@ -74,7 +74,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #192029; /*Left column*/
+  background: #0d0f12; /*Left column*/
   overflow-y: auto;
 }
 
@@ -175,7 +175,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover i, .nav-menu .active > a i, .nav-menu li:hover > a i {
-  color: #149ddd;
+  color: #ffffff;
 }
 
 /* Mobile Navigation */
